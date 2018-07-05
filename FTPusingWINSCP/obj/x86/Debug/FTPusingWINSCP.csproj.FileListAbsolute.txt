@@ -1,0 +1,9 @@
+c:\users\suyambu\documents\visual studio 2010\Projects\FTPusingWINSCP\FTPusingWINSCP\bin\Debug\WinSCP.exe
+c:\users\suyambu\documents\visual studio 2010\Projects\FTPusingWINSCP\FTPusingWINSCP\bin\Debug\FTPusingWINSCP.exe
+c:\users\suyambu\documents\visual studio 2010\Projects\FTPusingWINSCP\FTPusingWINSCP\bin\Debug\FTPusingWINSCP.pdb
+c:\users\suyambu\documents\visual studio 2010\Projects\FTPusingWINSCP\FTPusingWINSCP\bin\Debug\DotNetZip.dll
+c:\users\suyambu\documents\visual studio 2010\Projects\FTPusingWINSCP\FTPusingWINSCP\bin\Debug\WinSCPnet.dll
+c:\users\suyambu\documents\visual studio 2010\Projects\FTPusingWINSCP\FTPusingWINSCP\bin\Debug\DotNetZip.xml
+c:\users\suyambu\documents\visual studio 2010\Projects\FTPusingWINSCP\FTPusingWINSCP\obj\x86\Debug\FTPusingWINSCP.csprojResolveAssemblyReference.cache
+c:\users\suyambu\documents\visual studio 2010\Projects\FTPusingWINSCP\FTPusingWINSCP\obj\x86\Debug\FTPusingWINSCP.exe
+c:\users\suyambu\documents\visual studio 2010\Projects\FTPusingWINSCP\FTPusingWINSCP\obj\x86\Debug\FTPusingWINSCP.pdb
